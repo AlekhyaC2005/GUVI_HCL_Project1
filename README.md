@@ -46,7 +46,7 @@ pip install pandas matplotlib seaborn
 🚀 How to Run the Project
 Step 1: Clone the Repository
 
-git clone https://github.com/yourusername/covid19-dashboard.git
+git clone [https://github.com/yourusername/covid19-dashboard.git](https://github.com/AlekhyaC2005/GUVI_HCL_Project1.git)
 cd covid19-dashboard
 
 Step 2: Run Python Notebook
